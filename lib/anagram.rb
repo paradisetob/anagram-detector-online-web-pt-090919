@@ -1,1 +1,2 @@
-class 
+class anagram
+  initialize 
