@@ -1,2 +1,3 @@
 class anagram
-  initialize 
+  attr_accessor:
+  initialize
